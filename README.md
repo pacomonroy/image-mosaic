@@ -1,7 +1,7 @@
 # text-image-wordcloud-mosaic
 
 
-This Python project creates a Text Mosaic combined with WordCloud
+This Python project takes am image as a mask, and generates a text mosaic in wordcloud format.
 
 
 It also includes an image invertor (invert-image.py)
