@@ -1,4 +1,4 @@
-# image-mosaic
+# text-image-wordcloud-mosaic
 
 
 This Python project creates a Text Mosaic combined with WordCloud
